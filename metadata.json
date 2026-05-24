@@ -1,0 +1,6 @@
+{
+  "name": "HN Top 10",
+  "description": "每日 Hacker News 十大热门文章，智能 AI 翻译与概要精选 (Hacker News Daily Top 10 with Gemini summaries and Chinese translations)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
